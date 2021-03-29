@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henriquedevb
-- 👀 I'm interested in web development and also a being back-end developer.
+- 👀 I'm interested in being a web developer and also a back-end developer
 - 🌱 I’m currently learning html, css, Javascript e Node.js.
 - 💞️ I’m looking to collaborate on projects at the beginner level.
 - 📫 How to reach me www.linkedin.com/in/henrique-fontenele/
