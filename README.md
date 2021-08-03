@@ -1,4 +1,5 @@
-👋<h1 align="center">Opa</h1>
-Sou Henrique Fontenele de Jesus
-tenho 23 anos e estou cursando Analise e desenvolvimento de sistemas no IESB-SUL de Brasilia. 
+<h1 align="center">Sou Henrique Fontenele de Jesus</h1>
+Tenho 23 anos e estou cursando Analise e desenvolvimento de sistemas no IESB-SUL de Brasilia. 
+#Atualmente estou mais focado em front-end com html, css, javascript e react, mas também exercito o back-end com Node.js
+
 Meu linkedin www.linkedin.com/in/henrique-fontenele/
