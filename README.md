@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Henriquedevb
-- 👀 I'm interested in being a web developer and also a back-end developer
-- 🌱 I’m currently learning html, css, Javascript e Node.js.
-- 💞️ I’m looking to collaborate on projects at the beginner level.
-- 📫 How to reach me www.linkedin.com/in/henrique-fontenele/
+👋 Opa
+Sou Henrique Fontenele de Jesus, tenho 23 anos e estou cursando Analise e desenvolvimento de sistemas no IESB-SUL de Brasilia. 
+Meu linkedin www.linkedin.com/in/henrique-fontenele/
