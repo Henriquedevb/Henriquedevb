@@ -1,9 +1,9 @@
-<h1 align="center">Eae galera!</h1>
+<h1 align="center">Hi Guys!</h1>
 
 <div align="center">
  <img src="https://i.imgur.com/MAMdnKs.gif" />
 </div>
 
-Sou Henrique Fontenele, tenho 23 anos, sou formado em Analise e desenvolvimento de sistemas e moro no Goiás! 
+I'am Henrique Fontenele, I'am 23 years old, I have a degree in Analise e desenvolvimento de sistemas and i'am from Goias in Brazil! 
 
-Meu linkedin www.linkedin.com/in/henrique-fontenele/
+My linkedin www.linkedin.com/in/henrique-fontenele/
