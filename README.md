@@ -4,8 +4,8 @@
  <img src="https://i.imgur.com/MAMdnKs.gif" />
 </div>
 
-I'am Henrique Fontenele, I'am 25 years old, I have a degree in Analysis and systems development and i'am from Goias in Brazil! 
+I'm Henrique Fontenele, and I'm 28 years old. I have a degree in Analysis and Systems Development, and I'm from Goiás in Brazil! 
 
 This is my website: [My Website](https://fonteneles.com.br)
 
-This is my Linkedin: [My linkedin](https://www.linkedin.com/in/henrique-fontenele/)
+This is my LinkedIn: [My LinkedIn](https://www.linkedin.com/in/henrique-fontenele/)
